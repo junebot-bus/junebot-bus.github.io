@@ -1,0 +1,7 @@
+# app-ads.txt for Junebot, LLC
+# Authorised digital sellers for the Next Bus / TransitMaxx iOS apps.
+# Spec: IAB Tech Lab app-ads.txt 1.0
+# This file must stay at the ROOT of junebot-bus.github.io, which is the
+# developer website listed on every app's App Store page - that listing is
+# what AdMob crawls to verify each app.
+google.com, pub-5110338554015993, DIRECT, f08c47fec0942fa0
